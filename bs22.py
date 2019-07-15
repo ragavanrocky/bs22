@@ -10,4 +10,4 @@ if(temp==r):
   print("yes")
 else:
   print("no")
-fsgshshjj
+
